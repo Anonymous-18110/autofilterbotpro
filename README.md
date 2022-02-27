@@ -6,8 +6,7 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/Anonymous-18110/autofilterbotpro?style=flat-square&color=yellow)](https://github.com/Anonymous-18110/autofilterbotpro/stargazers)
-
+[![Stars](https://img.shields.io/github/stars/Anonymous-18110/autofilterbotpro?style=flat-square&color=yellow)](https://github.com/Anonymous18110/autofilterbotpro/stargazers)
 [![Forks](https://img.shields.io/github/forks/Evamari EvamariaTG aTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
 [![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
